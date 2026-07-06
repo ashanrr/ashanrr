@@ -12,7 +12,7 @@
   <a href="mailto:rumaishamokthar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
@@ -20,12 +20,12 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🌱 Currently Learning 
+## Currently Learning 
 
 - Supply Chain Analytics
 - Data storytelling for business reporting
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
