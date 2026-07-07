@@ -13,7 +13,7 @@
 </p>
 
 ## About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a fresh graduate in Information Technology with knowledge of information management and big data analytics. I'm passionate about helping businesses make sense of their data by transforming complex, unstructured datasets into clear, actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
@@ -24,6 +24,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 - Supply Chain Analytics
 - Data storytelling for business reporting
+- Tableau
 
 ## Technical Skillset
 
